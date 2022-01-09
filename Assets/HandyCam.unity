@@ -605,7 +605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1c86229607f485086e46df445c1383, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  accessKey: Vep53v7lNzf0iaVObchAY
+  accessKey: 
   rawImage: {fileID: 498538435}
   aspectFitter: {fileID: 498538437}
   visualizer: {fileID: 1560640272}
